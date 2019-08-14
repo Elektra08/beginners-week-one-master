@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <title> cheatsheet </title>
+
+  </head>
+
+  <body>
+
+    <h1>this is the boldest header you can make for the website</h1>
+
+    <h2>they can keep going down. the bigger the number the smaller the text</h2>
+
+    <p>this makes the text into a paragraph</p>
+
+    <em>this makes the text in italics.</em>
+
+    <strong>this makes the text bold.</strong>
+
+<a href="https://www.w3schools.com/">This is a hyperlink to w3schools</a>
+
+<br> <!-- This makes the text have a break line and give space. -->
+
+  </body>

@@ -1,0 +1,31 @@
+body {
+        color: rgb(0, 0, 0);
+        background-color: rgb(173, 184, 201)
+}
+div {
+        min-height:100vh;
+      width:100vh
+}
+h1, h2{
+        text-align: center;
+}
+h1{
+        font-size: 5em;
+}
+h2{
+        font-size: 2.5em
+}
+img {
+        display: flex;
+        padding: 20px;
+        margin: 0 auto;
+
+}
+p{
+        width: 40%;
+        margin: 10vh 10vh;
+        font-size: 2em;
+}
+a {
+        color:rgb(0,0,0);
+}
